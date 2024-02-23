@@ -23,6 +23,8 @@ public class Test {
         //모르는 사람왔다감
         // 첩자 쳐내
 
+        System.out.println("전준규왔다감 ");
+
 
     }
 }
